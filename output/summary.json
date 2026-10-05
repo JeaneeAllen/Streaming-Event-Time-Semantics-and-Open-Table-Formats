@@ -1,0 +1,10 @@
+{
+  "generated": 5000,
+  "accepted": 4961,
+  "side_output": 39,
+  "side_output_pct": 0.78,
+  "late_updates": 2,
+  "good_version": 271,
+  "reconciled_total": 5000,
+  "checks": "PASS"
+}
